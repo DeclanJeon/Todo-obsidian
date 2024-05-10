@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "4e0e83f7eb48aeda",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a118dca670502c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "340145b03ac22176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do List/Ringmyid Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c92f6aa867bd26c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do List/Ringmyid Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4712bcc5f897cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Holepunch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e35979023dcefe4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do List/Ringmyid Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1a2f315d429de32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do List/Ringmyid Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1db227a5e22d4c1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do List/Ringmyid Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1925bf3b73b9e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do List/Ringmyid Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d62836d16294f664",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Was Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b27ae3470b0f76f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Was Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "254dd84b5fb491eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To do List/Ringmyid Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec0c4d0e4f46088a",
+    "type": "split",
+    "children": [
+      {
+        "id": "37d0b2a1bb8fa7eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29575724f4f0d4ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eeb60b1edbb88327",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a9ce5c6e89e81a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a5e08666133c716",
+    "type": "split",
+    "children": [
+      {
+        "id": "7014f26445a5a84b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41f7473875a0c9de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "To do List/Ringmyid Tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0af8bf7faeb8c37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "To do List/Ringmyid Tasks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d290bcb89f44879",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5c88ad512afe9f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "To do List/Ringmyid Tasks.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "workspaces:작업 공간 레이아웃 관리": false
+    }
+  },
+  "active": "254dd84b5fb491eb",
+  "lastOpenFiles": [
+    "To do List/Ringmyid Tasks.md",
+    "To do List/Kronworld Tasks.md",
+    "To do List/Kron Delivery Tasks.md",
+    "To do List/High Qulity Voice P2P Chat Tasks.md",
+    "To do List/Commons Tasks.md",
+    "Sources/ZooKeeper.md",
+    "Sources/Was Manager.md",
+    "Sources/upnp.md",
+    "Sources/Messge Queue.md",
+    "Sources/Socket Manager.md",
+    "images",
+    "images/Pasted image 20240510144137.png",
+    "Sources/Log Storage.md",
+    "Sources/Holepunch.md",
+    "Sources/Backup DB.md",
+    "Linux for mac.md",
+    "Sources",
+    "To do List",
+    "Linux 설치 후 셋팅.md"
+  ]
+}
